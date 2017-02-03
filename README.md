@@ -8,10 +8,10 @@ Instead of keeping my ideas in a file on my computer or on to-do list like I did
 for a long time, I put them on Github.
 
 I'm not afraid about someone who will take some ideas here and develop them
-because I am sure I am not the first guy having these ideas.
+because I am sure I am not the first guy which has these ideas.
 
-Loving open source software, lot of them would be open source. If you want to
-develop some of them, tell me, open sourced them and I will add a link to them
+As I love free softwares, lot of them would be free. If you want to
+develop some of them, tell me, make them free and I will add a link to them
 here.
 
 ## Platforms
